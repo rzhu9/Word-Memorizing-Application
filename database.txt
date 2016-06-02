@@ -1,0 +1,2000 @@
+1,abandon, 抛弃 放弃
+2,abandoned, 被抛弃的，废置的
+3,abandonment, 抛弃；放弃
+4,abbreviate, 缩短；缩写
+5,abbreviation, 缩写；缩写词
+6,abide, 遵守 忍受
+7,abiding, 持久的
+8,ability, 能力，才干
+9,inability, 无能，无力
+10,capability, 能力，性能，容量
+11,viability, 生存能力；可行性
+12,variability, 可变性
+13,ablaze, 着火的，燃烧的；闪耀的
+14,blazing, 炽烧的，闪耀的
+15,abnormal, 反常的，异常的；变态的
+16,normal, 正常的，正规的，标准的
+17,abolish, 废除，取消
+18,abolition, 废除，取消
+19,abolitionist, 废奴主义者
+20,abort, 中止计划（任务）
+21,abound, 充满；富于
+22,abrasion, 磨（擦）破；表面磨损
+23,abrasive, 研磨的
+24,abrupt, 突然的，意外的
+25,absenteeism, 旷课；旷工
+26,absentee, 缺席者
+27,absent, 缺少的；不在的，缺席的
+28,absence, 缺少；不在，缺席
+29,absolute, 完全的；绝对的
+30,absolutely, 完全地；绝对地
+31,absorb, 吸收（液体、知识）
+32,absorption, 吸收
+33,abstract, 抽象的 摘要，提炼
+34,absurd, 荒谬的，可笑的
+35,abundant, 丰富的，充裕的；大量的
+36,abundantly, 丰富地
+37,abundance, 丰富，充裕
+38,abuse, 滥用；虐待
+39,abut, 邻接，毗邻
+40,academic, 学术的；学院的；理论的
+41,academician, 学会会员；院士；学者
+42,accelerate,加快，加速
+43,accelerated, 加速的，迅速的
+44,accelerating, 加速的
+45,acceleration, 加速度
+46,access, 接触，接近（的机会）入口，通道
+47,accessible, 可接近的，可接触的；可得到的
+48,accessibility, 易接近；可达到
+49,accessory, 附件，零件
+50,accidental, 意外的，偶然的
+51,accidentally, 意外地，偶然地
+52,accident, 意外事件，事故
+53,acclaim, 赞誉，赞许 喝彩，欢呼；称赞
+54,acclaimed, 受人欢迎的
+55,accommodate, 为提供食宿；与相符，与相适应
+56,accommodating, 乐于助人的
+57,accompany, 陪伴，伴随；伴奏
+58,accompanying, 陪伴的，伴随的
+59,accompaniment, 伴奏
+60,accomplish, 完成，达到，实现
+61,accomplished, 精通的，熟练的
+62,accomplishment, 成就
+63,accordion, 手风琴
+64,account, 说明，解释 户头，账户 解释
+65,on account of, 由于，因为
+66,take account of, 考虑到 体谅
+67,take into account, 重视，考虑
+68,accounting, 会计学
+69,accountant, 会计员，会计师
+70,accredit, 授权
+71,accumulate, 堆积，积聚；积累
+72,accumulation, 积聚
+73,accurate, 准确的，正确的
+74,accuracy, 准确性，正确性
+75,accuse, 指责，归咎
+76,accusation, 谴责；控告
+77,accustomed, 习惯了的
+78,achieve, 完成，实现
+79,achievement, 成就，功绩
+80,acid, 酸 酸的 尖酸的，刻薄的
+81,acidic, 酸的，酸性的
+82,acidity, 酸度，酸性
+83,acquaintance, 熟人
+84,acquaint, 熟悉
+85,acquisition, 获得
+86,acquire, 获得，学到
+87,acronym, 首字母缩写词
+88,actual, 实际的，现行的
+89,actually, 实际上，事实上
+90,actuate, 开动，促使
+91,activate, 刺激，使活动
+92,actively, 活跃地，积极地
+93,acute, 灵敏的，敏锐的 剧烈的；很严重的
+94,acumen, 敏锐，聪明
+95,adapt, （使）适应，调整；改编
+96,adaptable, 能适应的，适应能力强的
+97,adaptation, 改编，改写；适应环境
+98,adaptive, 适合的；适应的
+99,addict, 使上瘾，使沉溺 上瘾的人
+100,addictive, （使人）上瘾的
+101,additive, 添加剂 加法的
+102,additional, 另外的，附加的，额外的
+103,in addition to, 词组,除..之外
+104,adept, 熟练的，擅长的
+105,adequate, 足够的，充实的
+106,adhere, 黏附，粘牢 追随，坚持
+107,adhesive, 粘着物 粘着的
+108,adjacent, 毗连的，邻近的
+109,adjoin, 毗连，邻近
+110,adjoining, 毗邻的
+111,adjunct, 附件，附属
+112,adjust, 调整；使适于
+113,adjustment, 调整
+114,administer, 管理
+115,administration, 经营，管理 当局，政府
+116,administrative, 管理的；行政的
+117,administrator, 管理者；行政官
+118,admire, 钦佩 崇拜；欣赏
+119,admiration, 钦佩，赞美
+120,admit, 准许进入 承认
+121,admittedly, 公认地；诚然，无可否认地
+122,adobe, 泥砖，土坯
+123,adopt, 采用，采纳 收养
+124,adoption, 采用
+125,adorn, 装饰
+126,adornment, 装饰；装饰品
+127,adorned, 未装饰的，朴实的
+128,advance, 提高，发展；提升 提出 前进 进步 预先，提前（in advance）
+129,advancement, 进展；提升
+130,advanced, 高级的；年老的；先进的
+131,advent, 出现，到来
+132,adventure, 冒险经历
+133,adventurous, 喜欢冒险的，敢做敢为的
+134,adventurer, 冒险家
+135,adverse, 负面的，不利的 敌对的，相反的
+136,adversely, 相反地；不利地
+137,adversity, 不幸，灾难
+138,advocate, 提倡者，主张者，拥护者 拥护，主张
+139,aesthetic, 美学的，审美的
+140,anesthetic, 麻醉剂
+141,affect, 影响；假装
+142,affected, 装模作样的
+143,affection, 友爱，挚爱，情爱
+144,affective, 感情的，表达感情的
+145,affectionate, 亲爱的，挚爱的
+146,affiliate, 使隶属；接纳为成员
+147,affinity, 紧密关系 吸引；喜爱
+148,affirm, 断言；证实，确认
+149,afflict, 折磨；使苦恼
+150,affliction, 痛苦，苦恼
+151,affluent, 富有的，丰富的
+152,afford, 付得起；冒险做 提供
+153,affordable, 负担得起的，便宜的
+154,agenda, 日程，议程
+155,aggravate, 使恶化，使加重
+156,aggravating, 恼人的，讨厌的
+157,aggregate, 总数 聚集体
+158,aggregation, 集合，群体
+159,aggressive, 强有力的，坚持己见的 好斗的，有敌意的
+160,aggressiveness, 侵略；争斗
+161,agile, 敏捷的，活泼轻快的
+162,agility, 敏捷，活泼
+163,fragile, 易碎的，脆的
+164,fragility, 脆弱
+165,agitation, 焦虑，不安；煽动
+166,agreeable, 使人愉快的，合意的 容易相处的
+167,disagreeable, 不令人喜欢的，令人厌恶的
+168,ailment, 疾病（尤指轻病、小病）
+169,aim, 目标，计划 针对；打算，意欲
+170,air, 空气，空中 晾干，使通风
+171,airborne, 空气传播的；空运的，空降的
+172,ajar, （门窗等）微开的
+173,akin, 同族的；类似的
+174,alchemy, 炼金术
+175,alder, 赤杨树
+176,alert, 机敏的警报 使随时掌握 了解
+177,algae, 海藻
+178,alien, 相异的；陌生的
+179,salient, 显著的，突出的
+180,alignment, 排列；联合，联盟
+181,alike, 相同的 相似的
+182,all but, 几乎 除…以外所有的
+183,all inclusive,词组,无所不包的
+184,allegation, 宣称，主张，断言
+185,allegory, 寓言
+186,alliteration, （诗歌的）头韵
+187,allocate, 分配
+188,alloy, 合金 使成合金
+189,allude, 暗指，影射，间接提到
+190,ally, 联盟；同盟者 结盟
+191,rally, 集会
+192,aloft, 在高处；在空中
+193,alone, 单独的（地）
+194,aloof, 远离的；冷淡的，漠不关心的
+195,alter, 改变，修改
+196,alteration, 变更，改造
+197,alternate, 交替的，轮流的 替代的
+198,alternately, 交替地，隔一个地
+199,alternation, 交替，轮流
+200,alternative, 另一可选的，另外的
+201,altitude, 高度
+202,latitude, 纬度
+203,platitude, 陈词滥调
+204,aluminum, 铝
+205,amateur, 业余的 业余爱好者
+206,amaze, 使吃惊，使惊叹
+207,amazement, 惊愕，惊异
+208,amazing, 令人惊异的
+209,ambience, 周围环境，气氛
+210,ambition, 雄心，抱负
+211,ambitious, 有雄心的，渴望成功的
+212,ambivalent, 有矛盾情绪的，举棋不定的
+213,ambivalence, 矛盾心理
+214,amble, 漫步，缓行
+215,scramble, 攀爬；搅乱，使混杂
+216,amenable, 顺从的；应服从的
+217,amendment, 改正，修正
+218,Amendment, 宪法修正案
+219,amend, 改正，修正
+220,amenity, 生活福利设施，文娱康乐场所
+221,aim, 在…中
+222,pyramid, 金字塔；金字塔现象/形状
+223,amnesia, 健忘症
+224,amount, 量，总合 总计；等于
+225,ample, 富足的，充足的
+226,trample, 践踏，踩坏
+227,amplify, 放大；扩大；增强
+228,amplification, 扩大
+229,an army of,词组,大群的，大量的
+230,analogy, 类比，类推
+231,analogous, 类似的
+232,analyze, 分析，分解
+233,analysis, 分析；分析报告
+234,psychoanalysis, 心理分析
+235,anarchist, 无政府主义者
+236,anatomy, 解剖；解剖学
+237,ancestor, 祖先，祖宗
+238,ancestry, 家系，血统
+239,ancestral, 祖先的，祖传的
+240,anecdotal, 轶闻的，多轶闻趣闻的
+241,anecdote, 短故事，轶事
+242,anesthesia, 麻醉
+243,anesthetic, 麻醉剂，麻药
+244,angular, 有角的，尖角的
+245,rectangular, 矩形的，成直角的
+246,animated, 活生生的；活泼的，生动的
+247,annex, 兼并，附加
+248,annihilate, 消灭；消减
+249,announce, 宣布，发表，通告
+250,announcement, 宣告，发表
+251,announcer, 广播员；报幕员
+252,annoy, 使恼怒；打扰
+253,annoying, 恼人的，讨厌的；使人愤怒的
+254,annual, 每年的
+255,annually, 一年一次，每年
+256,anomaly, 异常，不规则；异常的人或物
+257,anonymous, 匿名的
+258,anthem, 圣歌，赞美诗
+259,anthology, 诗集，文选
+260,anthropology, 人类学
+261,antibiotic, 抗菌的，抗生的
+262,anticipate, 预期，预料
+263,anticipation, 期望，预料
+264,antiquate, 使古旧，废弃
+265,antiquated, 陈旧的，过时的
+266,antique, 古董 古时的，过时的
+267,antiquity, 古迹；古物
+268,antiseptic, 防腐剂，杀菌剂
+269,anxious, 渴望的；担忧的
+270,apart from,词组,除…之外
+271,apologize, 道歉
+272,apology, 道歉，歉意
+273,appeal, 吸引力 吸引 上诉，申请
+274,appealing, 动人的，媚人的
+275,appetite, 胃口，食欲
+276,applaud, 喝彩，欢呼
+277,applicant, 申请人
+278,apply, 应用，适用 申请
+279,application, 申请 施用，运用；作用，影响
+280,appliance, 用具，器具
+281,appoint, 任命，选派
+282,appointment, 约会 指定
+283,disappointment, 失望
+284,apportion, （按比例或计划）分配
+285,appraisal, 评价，估价
+286,appreciable, (数量或变化)很大的，值得重视的
+287,appreciate, 赏识；鉴赏 感激
+288,appreciation, 欣赏；口味，兴趣
+289,apprentice, 学徒
+290,approach, 方法 接近，靠近
+291,approaching, 接近的，逼近的
+292,appropriate, 适当的，恰当的 拨款
+293,appropriation, 拨款
+294,approve, 批准 赞成，同意
+295,approval, 赞成，正式批准
+296,disapproval, 不赞成
+297,approximate, 接近，近似 大约的，估计的
+298,approximately, 近似地，大约
+299,apt, 恰当的，贴切的 易于…的
+300,aptly, 适当地，得体地
+301,aquatic, 水生的，水栖的
+302,aquarium, 水族馆
+303,arbitrary, 专横的，专制的，武断的
+304,arboreal, 树栖的；树的
+305,arc, 弧形，拱形
+306,archaeology, 考古学
+307,archaeological, 考古学的
+308,archipelago, 群岛
+309,architect, 建筑师
+310,architecture, 建筑；建筑学
+311,architectural, 建筑上的；建筑学的
+312,ardent, 热烈投入的，极热心的
+313,arduous, 费力的，艰难的
+314,arena, 竞技场，舞台
+315,aria, 独唱曲，咏叹调
+316,arid, 干旱的；贫瘠的
+317,semiarid, 雨量非常少的，半干旱的
+318,arithmetic, 算数
+319,armor, 装甲；装甲车
+320,armored, 披甲的，装甲的
+321,arms, 武器，兵种
+322,armory, 纹章；兵工厂，军械库
+323,aroma, 香气，芬芳，芳香
+324,aromatic, 芬芳的
+325,arouse, 刺激，激起；唤醒
+326,arrange, 计划，准备 整理，摆放
+327,arrangement, 排列，安排
+328,array, 展示，陈列；一系列
+329,arsenal, 兵工厂，军械库
+330,arthritis, 关节炎
+331,article, 论文，文章 物品 条款
+332,particle, 点，微粒
+333,articulate, 清楚地讲话，清晰地发音 善于言辞的；表达清晰的
+334,particulate, 微小的
+335,artificial, 人造的，人工的 虚假的，矫揉造作的
+336,artisan, 手工业工人，手艺人
+337,as far as,词组,就...来说；远及
+338,as such,词组,就象这样做，就本身而论
+339,as a rule,词组 通常，总的来说
+340,as a rule of thumb,词组,大概来说
+341,ascend, （渐渐）上升，升高；攀登
+342,ascending, 上升的，向上的
+343,ascent, 攀登，上升
+344,ascribe, 把…归于
+345,aspect, (问题的)方面；(事物的)一部分 观点，角度
+346,aspiring, 有抱负的,有理想的,积极向上的
+347,aspiration, 雄心，抱负
+348,assault, （武力）袭击；（口头）攻击
+349,assemble, 集合，装配 聚集
+350,assembly, 集会；参加集会的人们 装配，安装
+351,assembly line,词组,装配线，流水线
+352,assemblage, 集合，组合
+353,assert, 声称，坚持
+354,assess, 估计，分析，评估
+355,assessment, 估价，评估
+356,asset, 财产，资产 优势；重要的品质
+357,cassette, 盒式磁带
+358,videocassette, 录像带
+359,assignment, 任务，作业 分配
+360,assimilate, 学习，吸收（知识）吃，吸收
+361,assistant, 助手，助教 辅助的，助理的
+362,assist, 援助，帮助
+363,assistance, 协助，援助
+364,assistantship, 研究生助教奖学金
+365,associate, 关联，联合 伙伴 准的/副的（比正职低一级）
+366,association, 关联，联合 协会
+367,assorted, 各式各样的，多样混合的
+368,assortment, 各类物品的聚集，混合物
+369,assume, 假定，设想 承担(责任)；采用(形式或姿势)
+370,assumption, 假设；就职
+371,assure, 确保；向…保证，使确信
+372,assuredly, 确实地，确信地
+373,reassure, 使...安心，打消...疑虑
+374,astonish, 使惊讶
+375,astonished, 惊讶的
+376,astonishing, 惊人的，奇迹的
+377,astound, 使惊异
+378,astounding, 令人吃惊的
+379,astronomical, 天文学的
+380,astronomy, 天文学
+381,astronomer, 天文学家
+382,astute, 机敏的，精明的
+383,asymmetrical, 不均匀的，不对称的
+384,at intervals,词组,不时；相隔一段距离
+385,at one session,词组,一下子，一次性
+386,at the cutting edge of,词组,在…的关键时刻/状态/位置
+387,atheist, 无神论者
+388,theist, 有神论者
+389,athlete, 运动员
+390,atmosphere, 大气，大气层；（某地的）空气
+391,atom, 原子
+392,atomic, 原子的；微小的
+393,atomization, 原子化；雾化
+394,atrophy, 萎缩；萎缩症
+395,attachment, 依恋，喜欢 附件，附加装置，配属
+396,attach, 系，缚
+397,attached, 附加的，附属的
+398,attain, 达到，获得
+399,attainment, 成就
+400,attempt, 尝试
+401,attend, 参加；入学 照顾
+402,attendant, 侍者，护理人员 伴随的
+403,attendance, 出席，出席的人数
+404,attention, 注意，重视，关心
+405,attire, 穿着，服饰（正规服装的总称）
+406,attorney, 代理人，辩护律师
+407,attract, 吸引；引起注意
+408,attraction, 吸引；吸引人的事物
+409,attractive, 吸引人的，有魅力的
+410,attribute, 属性，品质 把…归于，归因于
+411,audible, 听得见的
+412,audit, 旁听；稽核，审查
+413,audience, 观众
+414,auditorium, 大礼堂
+415,audition, （对艺人的）面试（试演/试唱）
+416,auger, 螺丝钻，钻孔机
+417,augment, 增加，增大
+418,aurora, 极光
+419,authentic, 真的；可靠的，确实的
+420,authenticate, 证明…为真
+421,authority, 权力，权限；权威人士 当局
+422,authorize, 授权，批准
+423,autobiography, 自传
+424,autobiographical, 自传的，自传体的
+425,biography, 传记
+426,automated, 自动的
+427,automatic, 自动(化)的；无意识的，机械的
+428,autonomy, 自治，自治权
+429,autonomous, 自治的，独立的
+430,auxiliary, 辅助的；补充的
+431,available, 自由的，有空的 可利用的，可得到的
+432,avalanche, 雪崩
+433,avant-garde, 先锋派(艺术流派)；先锋，前卫
+434,average, 一般的，通常的；平庸的 平均水平；平均数 平均为
+435,aversion, 厌恶，憎恨
+436,averse, 反对的，不愿意的
+437,avert, 转移；避免，规避
+438,aviation, 航空；航空学
+439,aviator, 飞行员，飞行家
+440,avid, 渴望的；热心的
+441,avocation, 副业；业余爱好
+442,avocational, 副业的，嗜好的
+443,avoid, 躲避，规避
+444,avoidable, 可避免的
+445,avoidance, 避免
+446,awareness, 意识
+447,awkward, 笨拙的，不灵活的
+448,awkwardly, (见到生人)局促不安地，笨拙地
+449,axis, 轴；轴心
+450,baby-sitter, 临时保姆，代人照顾婴儿者
+451,bachelor, 学士（学位）；单身汉
+452,back and forth,词组,来来回回，来回地
+453,backbone, 骨干，支柱 脊椎，中枢
+454,backdrop, 舞台背景；背景
+455,baggage, 行李
+456,balance, 平衡 使平衡，使均衡
+457,balanced, 均衡的；平稳的
+458,imbalance, 不平衡，不均衡
+459,overbalance, 失去平衡
+460,bald, 秃头的；光秃的
+461,bald eagle,词组,秃头鹰（美国国鸟）
+462,ballet, 芭蕾舞
+463,balloon, 气球
+464,balloonist, 气球驾驶者
+465,balmy, 芳香的；（空气）温和的
+466,ban, 禁止，查禁
+467,banner, 旗帜，标语，横幅
+468,banker, 银行家
+469,bang, 发出砰的一声，重击
+470,Cuban, 古巴人；古巴（人）的
+471,band, 乐队；队 (光或颜色的）带；带子 联合，集合
+472,bandleader, 乐队指挥
+473,bandmaster, 乐队指挥
+474,bandanna, 大手帕
+475,bankruptcy, 破产
+476,bankrupt, 破产了的（使）破产
+477,bar, 酒吧 snack bar 快餐店 条，棒；栅 律师业
+478,barb, （鱼钩等的）倒钩；倒刺
+479,barbed wire,词组,带倒钩的铁丝（铁丝网）
+480,barbecue, 烤肉野餐
+481,barber, 理发师
+482,bare, 无遮蔽的，赤裸的，光（秃）的 仅有的，勉强的
+483,barely, 仅仅 几乎不能
+484,barge, 驳船
+485,bark, 树皮 狗叫，咆哮
+486,barn, 谷仓；畜棚
+487,baroque, 高度装饰的，过分雕琢的
+488,barrel, 桶
+489,barren, 贫瘠的；荒凉的
+490,barrenness, 荒凉
+491,barrier, 屏障，障碍；栅栏
+492,barter, 物品交换，易货贸易
+493,basement, 地下室
+494,basin, 盆 盆地
+495,be taken by,词组,被迷住，被吓住
+496,be up to,词组,由…做；胜任，从事于
+497,bead, 珠子；（液体）小滴
+498,beaded, 以珠装饰的，珠状的
+499,beak, 鸟喙
+500,beam, 大梁 光线的 束 柱
+501,girder, 钢结构大梁
+502,bear, 负担，支撑 具有，带有 生产，生育 熊（polar bear 北极熊
+503,unbearable, 无法忍受的，承受不住的
+504,forebear, 祖先，祖宗
+505,beard, 胡须
+506,beat, 打击，敲击；打败 疲倦的（音乐）拍子
+507,bedrock, 基础；基石
+508,behalf, 代表…，作为…的代表
+509,behave, 举止，表现
+510,behavior, 举止，行为
+511,belie, 给人错觉；掩饰
+512,believe in,词组,相信
+513,bellows, 风箱
+514,below, 在…下面
+515,belong to,词组,属于
+516,beneath, 在…之下
+517,benefit, 利益，好处 有益于，有助于
+518,beneficial, 有益的，有利的
+519,benign, （病）良性的；亲切和蔼的
+520,bequest, 遗产；遗赠
+521,besides, 除了…（还有）
+522,besiege, 围攻；困扰
+523,bestow, 给与，赐赠
+524,betray, 背叛（非故意地）暴露，显露
+525,beverage,（除水之外的）饮料
+526,bias, 偏见，偏好
+527,unbiased, 没有偏见的
+528,bicameral, 两院制的，有两个议院的
+529,bilateral, 两边的；双边的
+530,bill, 帐单，发票（细长或扁平的）鸟嘴 议案，法案 钞票，纸币
+531,hillbilly, 山地内部的贫农，山里人
+532,billion, 十亿（的）
+533,biography, 传记
+534,autobiography, 自传
+535,biographer, 传记作家
+536,biologist, 生物学家
+537,biological diversity,词组,生物多样性
+538,bison, 美洲或欧洲的野牛
+539,bitter, 苦（味）的（令人）痛苦的；尖酸刻薄的
+540,bitterness, 苦味；辛酸，苦难
+541,bizarre, 奇异的，古怪的
+542,blame, 谴责，责备 过失，责备
+543,bland, 淡味的；无味的
+544,blanket, 毯子；厚的遮盖物
+545,blast, 爆破 一阵（风、气流或噪音）
+546,blast furnace,词组 鼓风炉
+547,blazing, 炽烧的；闪耀的
+548,blaze, 燃烧，照耀 火焰，光辉
+549,ablaze, 着火的，闪耀的
+550,bleach, 去色，漂白
+551,bleak, 荒凉的；凄凉的
+552,blend, 混合，掺混 混合（物）
+553,blessing, 祝福，恩赐
+554,blink, 眨眼
+555,blizzard, 暴风雪
+556,block, 一块（木头或石头等）街区 阻碍，阻止
+557,bloom, 花/开花
+558,blossom, 花/开花
+559,blues, 抑郁，沮丧；布鲁斯音乐
+560,bluff, 悬崖，绝壁； 诈骗，吓唬
+561,blunt, 直言不讳的 钝的，不锋利的，不尖的
+562,blush, 脸红，羞愧
+563,board, （薄而平的）木板 委员会 膳食费用 上（船、飞机等）
+564,aboard, 在（船、飞机、车）上/上（船、飞机、车）
+565,boarder, 寄宿者；寄生者
+566,boardinghouse, 寄宿公寓
+567,keyboard, 键盘
+568,cupboard, 食橱，碗碟柜
+569,boast, 自夸，以有…而自豪
+570,boastful, 吹嘘的，自负的
+571,boiling point, 词组,沸点
+572,bold, 勇敢的，大胆的；放肆/无礼的
+573,bolster, 垫子，枕垫 支持
+574,bonanza, 富矿带；幸运，带来好运的事
+575,bond, 联结，联系；粘连；化学键 公债
+576,boom, 繁荣 急速发展
+577,baby boom, 词组,生育高峰
+578,boon, 恩惠，恩赐
+579,baboon, 狒狒
+580,boost, 增加，提高，促进
+581,boring, 令人厌烦的
+582,boredom, 烦恼，无聊
+583,bore, 钻孔；令人厌烦
+584,boulder, 巨石
+585,bounce, 跳起，弹回
+586,bound, 被束缚的；有义务的 范围，限制
+587,boundary, 分界线，边界
+588,boundless, 无限的，无边无际的
+589,bouquet, 花束
+590,bow, 弓；弓形
+591,bowlegged, 弯脚的
+592,bowl, 碗，碗状物
+593,elbow, 肘
+594,rainbow, 彩虹
+595,braid, 编织
+596,brain, 脑，大脑；头脑，智力
+597,brawl, 争吵
+598,brawling, 争吵，喧嚷
+599,breach, 打破，突破 违背，破坏
+600,break apart, 词组,分开，分裂
+601,break all ties with, 词组,与…断绝一切关系
+602,break out, 词组,爆发；发生
+603,break down, 失败；故障 分解；细目分类
+604,breakup, 分裂，分离
+605,break up, 词组,分裂，分离
+606,breathless, 无声息的，喘不过气来的
+607,breathing, 呼吸
+608,breath, 呼吸，气息
+609,breathe, 呼吸，呼出
+610,breathtaking, 令人激动的；惊人的
+611,breed, 养育，繁殖
+612,crossbreeding, 异种交配，杂交
+613,breeze, 微风
+614,brighten, 点亮 使愉快；使乐观
+615,brilliance, 聪明 辉煌
+616,brilliantly, 辉煌地，灿烂地
+617,brim, 边 边缘
+618,broad-brimmed, 宽边的
+619,briny, 盐水的，咸的
+620,brisk, 活泼的，轻快的
+621,briskness, 敏捷，活泼
+622,brittle, 易碎的
+623,broaden, 放宽，变宽，扩大
+624,brochure, 小册子
+625,bronze, 青铜；铜像
+626,sun-bronzed, 被太阳晒成古铜色的
+627,brook, 小河
+628,brown, 褐色（的），棕色（的)（使）成褐色，晒黑
+629,brownish, 成褐色的
+630,bubble, 气泡，水泡
+631,buckle, 皮带扣环 扣紧；（使）变弯曲
+632,bud, 芽，蓓蕾 发芽
+633,buddy, 密友，伙伴
+634,budget, 预算
+635,buggy, 小马车，童车
+636,building block,词组,积木
+637,bulb, 球茎，球状物
+638,bulk, 大批；大部分 大小，体积
+639,bulky, 庞大的，笨重的
+640,bump, 肿块；突起 碰（伤），撞（破）
+641,bunch, 串，束；群 捆成一束；聚集
+642,bundle, 捆，束，包 捆
+643,burdensome, 繁重的，劳累的
+644,burgeon, 迅速成长，发展
+645,burning, / ,燃烧（的）强烈的
+646,burrow, 洞穴 挖地洞
+647,bush, 矮树丛
+648,bust, 半身像，半身雕像
+649,combustion, 燃烧
+650,combustible, 易燃的
+651,robust, 精力充沛的
+652,statue, 全身雕像
+653,bustle, 喧闹，匆匆忙忙
+654,butter, 奶油
+655,buzz, 嗡嗡声；发出嗡嗡声
+656,buzzer, 蜂鸣器
+657,by a factor of, 词组,翻…倍
+658,by chance, 词组,偶然
+659,by far, 词组,迄今为止
+660,by-product, 副产品
+661,cab, 出租马车、汽车
+662,taxicab, 出租车
+663,the Cabinet, 内阁  cabinet  橱柜
+664,cabinetmaker, 家具师，细木工匠
+665,cabin, 小屋；船舱
+666,log cabin, 词组,小木屋
+667,cacti, 仙人掌-单数cactus
+668,cadence, （语调的）抑扬顿挫
+669,calculate, 计算；估计
+670,calculation, 计算，考虑
+671,calculator, 计算器
+672,calibration, 校准；标度，刻度
+673,calm,（天气、海洋等）静的，平静的 镇静的，沉着的 使平静，使镇定，平息
+674,campaign, (政治或商业性)活动，竞选活动
+675,champion, 冠军  拥护，支持
+676,championship, 锦标赛
+677,cancel, 取消
+678,cancellation, 取消
+679,candid, 率直的，坦白的
+680,candidate, 候选人
+681,cannibalism, 同类相食
+682,canopy, 天篷，遮篷
+683,canvas, 帆布；画布
+684,canyon, 峡谷
+685,capability, 能力
+686,capable, 有能力的
+687,capacity, 容量；能力
+688,captivity, 囚禁，拘留
+689,carapace, （蟹或龟的）甲壳
+690,carat, （宝石重量单位）克拉
+691,carbohydrate, 碳水化合物
+692,cardiac, 心脏的
+693,cardinal, 首要的，主要的 一种美洲鸟，雄性有深红色羽毛
+694,career, 生涯，职业
+695,careerism, 野心，追求名利
+696,careless, 粗心的，疏忽的
+697,carelessly, 不注意地，粗心地
+698,careful, 小心的，仔细地
+699,cargo, 货物
+700,caricature, 讽刺画
+701,carnival, 狂欢节
+702,carnivorous, 食肉的
+703,carve, 切开；雕刻
+704,carver, 雕刻匠，雕工
+705,carving, 雕刻品，雕花
+706,cast, 浇铸 投，抛
+707,casting, 铸件，铸造
+708,cast-iron, 铸铁的
+709,cast off, 词组,丢弃，摆脱
+710,cast away, 词组,使失事，使漂流
+711,forecast, 预测，预报
+712,broadcast, 广播；传播
+713,rebroadcast, 重播
+714,newscast, 新闻广播
+715,overcast, 阴天的，阴暗的
+716,casual, 非正式的，随便的；漫不经心的
+717,catalyst, 催化剂；促使事情发展的因素
+718,catalyze, 促使；激励
+719,catastrophe, 异常的灾祸
+720,catching, 传染的；有魅力的，迷人的
+721,eye-catching, 引人注目的，耀眼的
+722,catch on, 词组,理解，领会
+723,categorize, 分类
+724,category, 种类，类目；范畴
+725,cater, 满足需要，迎合
+726,caterpillar, 毛虫
+727,cathedral, 总教堂，大教堂
+728,cause, 导致，引起 原因；事业
+729,cautious, 小心的，谨慎的
+730,cautiously, 小心地，谨慎地
+731,caution, 小心，谨慎 警告
+732,cavern, 大山洞，大洞穴
+733,cavity, 洞；腔
+734,cease, 停止 终止
+735,ceaseless, 不停的
+736,celebrated, 有名的，大名鼎鼎的
+737,celebrate, 庆祝，祝贺；表扬，赞美
+738,celebrity, 名人
+739,celestial, 天体的；天上的
+740,cell, 细胞，单人牢房，电池
+741,cellist, 大提琴家
+742,cello, 大提琴
+743,census, 人口调查，人口普查
+744,centennial, 百年纪念
+745,centigrade, 摄氏（温度）的
+746,ceremonial, 仪式 正式的；仪式的
+747,ceremony, 典礼，仪式；礼节
+748,chafe,（将皮肤等）擦热，擦破 使恼火
+749,chagrin, 懊恼，失望
+750,chalk, 粉笔
+751,chamber, 室；房间
+752,champion, 冠军；拥护者 支持；主张
+753,championship, 锦标赛
+754,chaos, 混乱
+755,chaotic, 混乱的
+756,chapel, 小礼拜堂
+757,character, 角色；性格
+758,characteristic, 典型的，表现特征的，特有的 特征，特性
+759,characterize, 表现…的特色，刻画…的性格
+760,be characterized by,词组,以…为特征，典型代表
+761,charcoal, 炭；木炭
+762,charitable, 慈善事业的，慈善的；仁慈的
+763,charter, 包租；特许 宪章，章程
+764,chart, 海图，图表 制图
+765,chaste, 贞洁的；（思想、言论）朴素的
+766,chat, 闲谈
+767,chateau, 城堡，高级旅馆
+768,check, 检查，核对；阻止，控制 支票
+769,checkup, 审查；身体检查
+770,checkout, 检验，校验
+771,check out,词组,检验，校验
+772,paycheck, 付薪水的支票
+773,chef, 厨师
+774,cherish, 怀抱（希望等）；珍爱
+775,chill, 使冷，变冷；冷却 寒意，寒战
+776,chilly, 寒冷的
+777,chilli, 红辣椒
+778,chimpanzee, 黑猩猩
+779,gorilla, 大猩猩
+780,chisel, 凿子 砍凿，凿刻
+781,chivalry, 骑士气概，侠义；献殷勤
+782,choke, 使窒息
+783,chop, 砍
+784,choppy, 波浪起伏的,(风)不断改变方向的
+785,chord, 琴弦，心弦
+786,chore, 家务杂事
+787,choreography, 舞蹈编排
+788,choreograph, 设计舞蹈动作
+789,choreographer, 舞蹈指导
+790,choreographic, 舞蹈术的，舞台舞蹈的
+791,chorus, 合唱团
+792,chronic, 长期的；慢性的
+793,chronological, 按年代顺序排列的
+794,chronology, 年代学，年表
+795,chubby, 丰满的，圆胖的
+796,chunk, 大块；矮胖的人或物
+797,cider, 苹果酒，苹果汁
+798,cipher, 密码
+799,circuit, 电路
+800,circular, 循环的；圆的
+801,circle, 圆周，圆形物（具有共同兴趣、利益的人组成的）圈子，集团 包围，环绕
+802,circulate, （使）循环；（使）传播
+803,circulation, 循环；流通
+804,circumference, 圆周；周长
+805,circumscribe, 划界限；限制
+806,circumstance, 环境，情况
+807,citadel, 堡垒，要塞
+808,cite, 引用，举例
+809,citizenship, 公民（的身份）
+810,civil, 公民的；市民的 国内的
+811,civil rights,词组 公民权
+812,civil war,词组,内战
+813,civility, 彬彬有礼，斯文
+814,civilization, 文明，文化
+815,civilian, 平民的；民用的 平民
+816,claim, 要求，要求权 声称，主张
+817,clam, 蛤，蛤肉
+818,clamor, 叫嚣，喧哗
+819,reclamation, 开垦；改造；（废料等的）回收
+820,clan, 家族，宗族
+821,clap, 拍手声；霹雳声 鼓掌；轻拍
+822,clarify, 澄清，阐明
+823,clarification, 澄清，净化
+824,classify, 把…分类，分等级
+825,classification, 分类，分级
+826,clause, 分句；条款
+827,clay, 粘土；泥土
+828,clergy, 牧师
+829,clergyman, 牧师，教士
+830,cliff, 悬崖峭壁
+831,climate, 气候；社会风气或趋势
+832,climatic, 气候上的
+833,cling, 粘紧，附着 坚持（意见），墨守（习惯）
+834,clinic, 门诊所
+835,clinical, 临床的
+836,clip, 修剪
+837,clockwise, 顺时针方向的（地）
+838,counterclockwise, 逆时针方向的（地）
+839,clog, 障碍，阻塞
+840,clumsy, 笨拙的；愚笨的
+841,cluster, 簇，串，群 丛生；聚集
+842,clutch, 抓住，攫取 一次产的或孵的蛋（或卵）
+843,coalesce, 联合，合并
+844,coalescence, 合并，联合
+845,coalition, 联合，同盟
+846,coarse, 粗糙的
+847,coax, 哄诱，巧言诱哄
+848,code of laws,词组,法典
+849,codify, 编成法典，编辑成书
+850,coexist, 同时存在，共存
+851,cognitive, 认知的；感知的
+852,coherent, 粘在一起的 连贯的；有条理的
+853,coherence, 一致
+854,cohesion, 附着（力），凝聚力
+855,cohesive, 粘着的
+856,coil, （一）卷；线圈 盘绕，卷
+857,recoil, 弹回，反冲
+858,coin, 铸币 创造（一个新的词语或短语）
+859,coinage, 造币，货币制度
+860,coincide, 同时发生；相符合，相巧合
+861,coincident, 一致的，巧合的
+862,coincidence, 一致；同时发生或同时存在的事
+863,collaborate, 协作，合作
+864,collaboration, 合作
+865,collapse, 倒塌；崩溃，失败
+866,colleague, 同事，同僚
+867,collective, 集体的，共同的
+868,collide, 碰撞 冲突
+869,collision, 碰撞；冲突，抵触
+870,colloquial, 口语的，通俗语的
+871,colloquialism, 俗话，白话，口语
+872,colonize, 建立殖民地，拓殖 定居，居于
+873,colony, 殖民地；群体
+874,colonial, 殖民的，殖民地的
+875,colonel, 陆军上校
+876,colossal, 巨大的
+877,combination, 化和，组合
+878,combine, 联合，结合
+879,combustible, 易燃的
+880,combustion, 燃烧
+881,comet, 彗星
+882,cometary, 彗星的，彗星似的
+883,comic, 滑稽的，好笑的；喜剧的
+884,comical, 滑稽的，好笑的
+885,commander, 司令官，指挥员
+886,commemorate, 纪念
+887,comment, 注释，评论 谈及；注释，评论
+888,commentator, 评论员，讲解员
+889,commentary, 注释，解说词
+890,commerce, 商业
+891,commercial, 商业的，贸易的
+892,commercialize, 使商业化，使商品化
+893,commission, 委任，任命；委托，委托制作 佣金
+894,commissioner, 委员，专员
+895,committed, 效忠的；忠于…的
+896,commit, 犯（错误），干（坏事）
+897,committee, 委员会
+898,commitment, 信奉，支持；许诺，承担义务
+899,commodity, 商品，日用品
+900,commonsense, 具有常识的
+901,commonplace, 平凡的
+902,communal, 公共的；公社的
+903,communicate, 传达，沟通；通信
+904,communication, 沟通；通讯
+905,community, 社区；社会
+906,commute, 通勤
+907,commuter, 经常往返者
+908,telecommuter, （通过在线方式）远距离工作者
+909,compact, 紧凑的，紧密的；简洁的 压缩；使密集
+910,compaction, 压紧
+911,companion, 同伴，同事
+912,comparable, 可比的，比得上的；类似的
+913,comparative, 比较的
+914,comparatively, 相当地；比较地
+915,compatible, 可以并存的，相容的，协调的
+916,incompatible, 矛盾的，不调和的
+917,compel, 强迫 使不得不
+918,compensate, 补偿，赔偿
+919,compensation, 补偿，赔偿
+920,compensatory, 补偿性的
+921,compete, 竞争，比得上
+922,competent, 有能力的，能胜任的
+923,competence, 能力，胜任
+924,competition, 竞争，竞赛
+925,competitiveness, 竞争能力
+926,competing, 有竞争性的，不相上下的
+927,compile, 汇集，编辑
+928,complacence, 自满，自以为是
+929,complaint, 抱怨，怨言
+930,complain, 抱怨；悲叹
+931,complement, 补充，使完善 补足物，补充物
+932,complementary, 补充的，补足的
+933,complex, 复杂的，费解的 结构复杂的 综合体
+934,complexity, 复杂（性）
+935,complicated, 费解的，棘手的；结构复杂的
+936,complication, 并发症；复杂，复杂性
+937,complicity, 共谋；同谋，共犯
+938,complimentary, 赞美的
+939,compliment, 恭维，称赞
+940,comply with,词组,遵从，符合
+941,component, 成分，组成部分
+942,compose, 作曲，写作；组成
+943,be composed of, 词组,由…组成
+944,recompose, 重写；重新安排
+945,composition, 构成，组成 写作，作文；作曲
+946,decomposition, 分解；腐烂
+947,compound, 化合物
+948,compound eyes,词组,复眼
+949,comprehend, 领悟，理解
+950,comprehensible, 可理解的，易于了解的
+951,comprehension, 理解，包含
+952,comprehensive, 全面的，综合的
+953,compress, 压缩，浓缩
+954,compression, 浓缩，压缩
+955,compressed, 被压缩的，紧凑的
+956,comprise, 包含；由…组成
+957,compromise, 妥协，折衷
+958,compulsory, 必须做的，被强制的
+959,compute, 计算
+960,computation, 计算，估计
+961,concave, 凹的
+962,conceal, 隐藏，隐瞒
+963,concede, 承认
+964,conceive, 构思；设想
+965,concentric, 同心的
+966,concept, 概念，观念
+967,conception, 观念，认识
+968,misconception, 误解
+969,conceptual, 概念上的
+970,concert, 音乐会 一致；共同
+971,concerted, 商议好的，协定的
+972,concerto, 协奏曲
+973,concise, 简洁的，简明的
+974,conciseness, 简洁，简短
+975,conclude, 推断 作出结论 结束
+976,conclusive, 最后的，决定性的
+977,inconclusive, 非决定的
+978,concomitant, 伴随的      伴随物
+979,concrete, 水泥 具体的，实体的
+980,concurrent, 同时发生的
+981,condemn, 谴责
+982,condemnation, 谴责
+983,condensation, 压缩，浓缩
+984,condense, 使浓缩；精简
+985,condenser, 冷凝器
+986,condiment, 调味品
+987,condition, 条件 状况；健康状况
+988,air conditioner,词组,空调
+989,conditioning, （心理）条件作用，训练
+990,condor, 秃鹰
+991,conduct, 做（试验、研究等）；引导，带领 传导 举止，行为
+992,conductivity, 导电率；传导率
+993,conductor, 导体
+994,cone, 圆锥，松果
+995,confederate, 同盟者，盟友
+996,confederacy, 联盟
+997,confer, 颁给，赋予 协商
+998,conference, 会议；协商会，讨论会
+999,confess, 坦白承认
+1000,confession, 承认，招供
+1001,confide, 吐露（心事)倾诉
+1002,confident, 有信心的 自信的
+1003,confidence, 信心
+1004,overconfident, 过于自信的，自负的
+1005,configuration, 轮廓，构型
+1006,confine, 限制
+1007,confined to bed, 卧病不起的
+1008,confining, 狭窄的
+1009,confinement, 限制 禁闭
+1010,confirm, 证实 使…更坚定
+1011,confirmation, 确认 证实
+1012,conflict, 争论 冲突，斗争
+1013,conflicting, 相冲突的，相矛盾的
+1014,confluence, 汇合；聚集
+1015,conform, 遵守 顺从；符合
+1016,conformity, 一致，符合
+1017,nonconformity, 不墨守陈规，不一致
+1018,nonconformist, 非国教徒，不尊奉英国国教的基督教新教教徒
+1019,confront, 面对，正视
+1020,confuse, 搞乱，使糊涂
+1021,confuse…with…, 把…认为
+1022,confusion, 混乱，混淆
+1023,congenial, 合得来的；适意的
+1024,congenital, 先天的，天生的
+1025,congestion, 拥挤 拥塞
+1026,congested, 堵塞的 拥挤的
+1027,congratulation, 祝贺，道喜
+1028,congregate, 聚集
+1029,conglomerate, 混合
+1030,congress, 国会，议会
+1031,congressional, 会议的，大会的；国会的
+1032,congressman, 国会议员
+1033,conifer, 松类，针叶树
+1034,conjectural, 推测的
+1035,conjecture, 推测，猜测
+1036,connect, 连接 联系；联合
+1037,connection, 连接
+1038,disconnect, 分离，断开
+1039,connoisseur, 鉴赏家，行家
+1040,conscience, 良心，良知
+1041,conscientious, 尽责的，一丝不苟的
+1042,conscious, 有意识的，神志清醒的 意识到的
+1043,consciously, 有意识地 自觉地
+1044,consciousness, 意识 知觉
+1045,unconscious, 不省人事的,未发觉的,无意识的
+1046,consecutive, 连续的
+1047,consequence, 结果，后果
+1048,consequent, 作为结果的，随之发生的
+1049,consequently, 从而，因此
+1050,conservative, 保守的，谨慎的；守旧的
+1051,conservatism, 保守主义，守旧性
+1052,conserve, 保存,保藏  可长期保存的食物
+1053,conservation, 保存，保持
+1054,conservationist, （天然资源的）保护管理论者
+1055,considerable, 相当大（多）的；值得考虑的；相当可观的
+1056,considerably, 相当地
+1057,considerate, 考虑周到的，体贴的
+1058,consideration, 体谅，考虑
+1059,consistent, 一致的；稳定的，变化少的
+1060,consistency, 浓度，密度
+1061,consistently, 一贯地
+1062,consonant, 协调一致的
+1063,consort, 陪伴，结交
+1064,consortium, 协会，联盟，财团
+1065,conspicuous, 显著的；显眼的，引人注目的
+1066,conspiracy, 阴谋，共谋
+1067,constant, 不变的，持续的；一再重复的
+1068,constantly, 不断地
+1069,constellation, 星座 灿烂的一群
+1070,consternation, 惊愕，惊慌失措
+1071,constituent, 成分，要素 选民
+1072,constitution, 组织；宪法
+1073,constitute, 建立（政府），组成，构成
+1074,constitutional, 宪法的；章程的
+1075,constrain, 限制，约束
+1076,constraint, 限制，约束
+1077,constrict, 约束；收缩
+1078,constricted, 抑制的，约束的
+1079,construct, 建造；创立
+1080,construction, 建筑，建造
+1081,consult, 咨询，请教
+1082,consultant, 顾问，咨询者
+1083,consume, 消费，消耗；大吃大喝
+1084,consumer, 消费者
+1085,consumption, 消耗，消费
+1086,contact, 使接触，与…联系
+1087,contagious, 传染性的；有感染力的
+1088,contain, 包含，容纳
+1089,container, 容器；集装箱
+1090,contaminate, 弄脏，污染；感染
+1091,contamination, 玷污，污染
+1092,contemplate, 沉思，对…作周密思考
+1093,contemporary, 当代的，现代的 当代人，同龄人
+1094,contender, 竞争者
+1095,contention, 争论，争辩
+1096,content, 内容；容量 满足的
+1097,contented, 满足的，心安的
+1098,context, 上下文，语境
+1099,contiguous, 接近的，接壤的
+1100,contagious, 传染性的；有感染力的
+1101,continent, 大陆
+1102,continental, 大陆的，大陆性的
+1103,supercontinent, （地理）超大陆
+1104,transcontinental, 横贯大陆的，大陆那边的
+1105,continuation, 继续，延长
+1106,continuity, (时间或空间的)连续性，连贯性
+1107,continuum, 连续统一体
+1108,contour, contours 轮廓 周线，等高线
+1109,contract, 收缩 定契约，立合同 契约，合同
+1110,contraction, 缩短，收缩
+1111,contractor, 定约人，承包人
+1112,contradict, 同…矛盾，同…抵触
+1113,contradictory, 反对的，矛盾的
+1114,contrary, 相反的；对抗的
+1115,contrast, （对比，对照的）差异 对比，对照
+1116,contribute to,词组,有助于，对…起作用
+1117,controversy, 争论，辩论
+1118,controversial, 引起或可能引起争论的
+1119,convenient, 方便的；近便的，容易到达的
+1120,inconvenient, 不便的，有困难的
+1121,convenience, 便利，方便
+1122,convention, 会议；传统
+1123,conventional, 传统的，习俗的
+1124,conventionally, 按照惯例地，照常套地
+1125,unconventional, 非传统的
+1126,converge, 聚合，集中于一点，会聚
+1127,conversation, 会话，非正式会谈
+1128,conversational, 对话的，会话的
+1129,converse, 谈话，交谈
+1130,conversant, 亲切的，熟悉的
+1131,conversion, 转变；改变信仰
+1132,convert, 转换；转变信仰
+1133,converter, 炼钢转炉
+1134,convex, 凸出的
+1135,convict, 证明…有罪，宣告…有罪
+1136,conviction, 确信，深信，坚信
+1137,convincing, 令人信服的
+1138,unconvincing, 不足以令人相信的
+1139,convinced, 确信的，深信的
+1140,convivial, 欢乐的，快乐的
+1141,cooperate, 合作
+1142,cooperation, 合作，协作
+1143,cooperative, 合作的，协力的
+1144,coordinate, 使…协调，相配合
+1145,coordinated, 协调的，配合的
+1146,coordination, 调和
+1147,copper, 铜
+1148,coral reef,词组,珊瑚礁=corals
+1149,reef, 礁，暗礁
+1150,core, 中心，核心；地核
+1151,crust, 地壳；外壳
+1152,mantle, 地幔
+1153,corps, 军团，兵团
+1154,correlate, 使相互关联；使相互影响
+1155,correlated, 有相互关系的
+1156,correspondence, 通信；信件 符合，一致
+1157,corrosion, 腐蚀，侵蚀
+1158,corrosive, 腐蚀的，腐蚀性的
+1159,rodent, 啮齿类动物
+1160,corruption, 腐败，贪污，堕落
+1161,cosmic, 宇宙的
+1162,cosmopolitan, 世界性的，全球的
+1163,costume, 服装 穿上服装；穿衣
+1164,counsel, 劝告
+1165,counseling, 咨询服务
+1166,counselor, 顾问，法律顾问
+1167,counteract, 消除，抵消
+1168,counterbalance, 使平衡
+1169,counterclockwise, 逆时针的（地）
+1170,counterfeit, 伪造，仿造 伪造的，假冒的
+1171,counterpart, 相似的人或物，配对物
+1172,countless, 无数的
+1173,couple, （一）对，（一）双；夫妇 连合，结合
+1174,coupled with,词组,加之，除…以外
+1175,courier, 送急件的人，信使
+1176,court, 法庭；球场 向…献殷勤，追求；设法获得（他人的支持等）
+1177,courthouse, 法院；郡政府所在地
+1178,courtship, 求爱；求爱时期
+1179,courtly, 尊严而有礼貌的
+1180,courteously, 有礼貌地，亲切地
+1181,cover, 覆盖；包括；报道
+1182,coverage, 新闻报道；报道
+1183,cowhand, 牛仔，牧牛工
+1184,cowboy, 牛仔
+1185,cozy, 舒适的，惬意的
+1186,crab, 蟹
+1187,crack, 裂缝，裂纹；缺点（使）爆裂；裂开
+1188,craft, 手艺；容器 巧手制作
+1189,craftspeople, 手工艺人
+1190,hovercraft, 气垫船
+1191,aircraft, 飞行器；飞机，飞艇
+1192,spacecraft, 太空船
+1193,cram, 填塞；匆忙准备
+1194,cramped, 狭窄的
+1195,scramble, 搅乱，使混杂；攀爬
+1196,crash, 碰撞，坠毁，撞碎 破产，垮台
+1197,crater, 火山口；弹坑
+1198,crawl, 爬，爬行
+1199,crayon, 彩色蜡笔、粉笔或其绘画
+1200,canyon, 峡谷
+1201,crazy, 疯狂的，狂热的
+1202,credence, 信任，相信
+1203,credentials, 凭据，文凭
+1204,credit, 学分 信誉，信用；荣誉，声望 贷方，银行存款 认定… ；把…归给，归于
+1205,creditor, 债权人
+1206,creek, 小溪，小河
+1207,creep, 慢慢行进；爬行
+1208,crevice, 缺口，裂缝
+1209,crew, 全体工作人员；同事们
+1210,screw, 螺丝钉  拧紧
+1211,screwdriver, 螺丝起子
+1212,crimson, 深红色（的）
+1213,cripple, 削弱；使残废
+1214,crippling, 令人震惊的
+1215,crisscross, 交叉往来
+1216,the Red Cross,词组,红十字会
+1217,crossbones, 十字骨头
+1218,crosscut, 横切的
+1219,crossing, 横越，交叉口
+1220,crossbreeding, （生物）杂种
+1221,critical, 评论的，批评的 危急的；非常重要的
+1222,critical point,词组,临界点
+1223,critique, （文艺）批评，评论
+1224,crooked, 不诚实的；欺诈的 弯曲的；蜿蜒的
+1225,crow, 乌鸦
+1226,crude, 粗糙的，粗鲁的；原始的
+1227,crumple, 把…弄皱；起皱
+1228,crumble, 粉碎；崩溃
+1229,crush, 压垮；粉碎；使变形
+1230,crust, 硬外皮；地壳
+1231,crustacean, 甲壳动物
+1232,crystal, 水晶，晶体 清澈的；结晶状的
+1233,crystalline, 水晶的，透明的
+1234,crystallize, 明确；使结晶化
+1235,crystallized, 变成晶体的
+1236,crystallization, 结晶化
+1237,cubism, 立体主义
+1238,cube, 立方体，立方
+1239,cubic, 立方体的
+1240,cue, 提示 暗示
+1241,barbecue, 烤肉野餐
+1242,culinary, 厨房的，烹调的
+1243,culminate, 达到高潮/顶点
+1244,cultivate, 耕种；培养
+1245,cultivation, 耕种；培养
+1246,culture, 文明 文化 培养（微生物细胞组织等）
+1247,horticulture, 园艺
+1248,agriculture, 农业，农艺，农学
+1249,cumbersome, 笨重的，难处理的
+1250,curator, （博物馆等）馆长
+1251,curious, （令人）好奇的
+1252,curiosity, 好奇心
+1253,currency, 通货，货币
+1254,current, （液体、气体）流，趋势 现今的
+1255,currently, 现在，当前
+1256,concurrent, 并发的；协作的，一致的
+1257,curriculum, 学校的全部课程
+1258,cushion, 垫子，软垫 缓和…的冲力，保护
+1259,a cushion of,词组,一层
+1260,air-cushion vehicle,词组,气垫船
+1261,custodian, 看守人，管理人
+1262,custom, 习惯，传统，惯例
+1263,customs, 关税
+1264,customer, 消费者
+1265,customarily, 通常
+1266,accustomed, 通常的，习惯的
+1267,cuticle, 表皮
+1268,cylinder, 圆筒，圆柱体
+1269,dagger, 短剑，匕首
+1270,daisy, 雏菊
+1271,damp, 潮湿的，有湿气的
+1272,dampen, 使潮湿
+1273,dangerous, 危险的
+1274,daring, 大胆的，勇敢的
+1275,dart, 飞奔；投掷 标枪，镖，箭
+1276,dash off, 词组,水猛冲；感情爆发
+1277,date, 注明…的日期
+1278,date back,词组,追溯到…
+1279,dated, 陈旧的，过时的
+1280,outdated, 过时的，不流行的
+1281,validate, （法律）使有效，使生效
+1282,inundate, 淹没
+1283,daunting, 使人畏缩的
+1284,dawn, 黎明；开端，开始
+1285,dawning, 拂晓，黎明
+1286,dazzling, 眼花缭乱的；耀眼的
+1287,deadly, 致命的；极度的
+1288,deal, 交易；份量
+1289,a great deal,词组,丰富，大量
+1290,a good deal,词组,许多
+1291,big deal,词组,重大的事，重要的人
+1292,deal with,词组,处理，应付
+1293,debatable, 未决定的，有争执的
+1294,debate, 争论，辩论
+1295,debris, 废墟，残骸；碎片
+1296,debt, 债务
+1297,debtor, 债务人
+1298,decadent, 颓废的
+1299,decay, 腐烂 衰落
+1300,deceive, 欺骗，行骗
+1301,decent, 适当的，可接受的 得体的，体面地
+1302,deceptive, 欺骗的，导致误解的
+1303,deception, 欺骗，诡计
+1304,deciduous, 每年落叶的
+1305,decimal, 十进制的，小数的 小数
+1306,deck, 一副（纸牌）
+1307,declaration, 宣布，宣言
+1308,declare, 宣布，声明
+1309,decline, 衰退；下降，减退 婉言谢绝
+1310,decomposition, 腐烂，分解
+1311,decompose, 分解，（使）腐烂
+1312,decorate, 装饰，装潢，修饰
+1313,decoration, 装饰，装饰品
+1314,decorative, 装饰的，可作装饰的
+1315,decrease, 减少
+1316,defecate, 排粪；通大便
+1317,defect, 缺点，瑕疵
+1318,defective, 有缺陷的
+1319,defend, 防护；辩护
+1320,defense, 防卫；防卫物
+1321,defensive, 自卫的
+1322,defer, 遵从，听从 延期
+1323,deferential, 恭敬的, 恭顺的
+1324,deference, 尊重，顺从；敬意
+1325,deficiency, 缺乏；不足
+1326,deficient, 缺乏的，不足的
+1327,deficit, 赤字，不足额
+1328,definite, 清楚的；明确的；确切的
+1329,definitely, 明确地，肯定地
+1330,definitive, 决定性的，最后的
+1331,definition, 定义
+1332,deform, 使变形
+1333,deformation, 损坏，变形
+1334,deft, 灵巧的，熟练的
+1335,adept, 熟练的，拿手的
+1336,degrade, 使降级，贬低
+1337,degradation, 退化；降级，降格
+1338,dehydrate, 使脱水
+1339,dehydrated, 干燥的，脱水的
+1340,dehydration, 脱水，干燥
+1341,deign, 屈尊
+1342,deity, 神，被奉若神明的人或物
+1343,delay, 推迟，耽搁
+1344,delectable, 美味的
+1345,delegate, 代表 委派，授权
+1346,deliberate, 故意的，早有准备的 审慎的，深思熟虑的
+1347,deliberately, 故意地
+1348,delicate, 脆的，易损的；娇弱的 精致的，细腻的
+1349,delicious, 美味的，可口的
+1350,delirium, 精神错乱，发狂
+1351,delta, 三角洲
+1352,demobilize, 遣散，使复员
+1353,immobilize, 使固定不动
+1354,democracy, 民主政治，民主主义
+1355,demolish, 破坏，摧毁
+1356,demolition, 破坏，拆除
+1357,demonstrate, 演示；论证
+1358,demonstration, 实证；示范
+1359,denomination, 宗派，教派 （货币）面额
+1360,denote, 指示，表示
+1361,denounce, （公开）谴责，斥责
+1362,dense, 密集的，浓厚的
+1363,condense, 使浓缩；精简
+1364,condenser, 冷凝器；电容器
+1365,density, 密度
+1366,dent, 缺口，凹痕 使凹下，凹进
+1367,indent, 使凹进
+1368,indenture, 以契约束缚（学徒等）
+1369,rodent, 啮齿类动物
+1370,edentate, 贫齿类动物
+1371,dentistry, 牙科
+1372,dental, 牙齿的
+1373,dentist, 牙科医生
+1374,deny, 否认，否定 剥夺，拒绝…的要求
+1375,depart, 离开，出发
+1376,departure, 离开，出发
+1377,dependent, 依赖的；从属的，由…而定的 依赖他人者
+1378,depend on,词组,依靠，依赖
+1379,dependence, 依赖，信赖
+1380,dependable, 可靠的，可信赖的
+1381,independent, 独立自主的，不受约束的 中立派，无党派者
+1382,interdependent, 相互依赖的，互助的
+1383,depict, 描绘；描写，描述
+1384,deplete, 耗尽，使衰竭
+1385,deposit, 堆积，沉淀 放置，寄存 产卵 堆积物，沉淀；存款，押金
+1386,depositor, 存款人
+1387,depot, 货站，仓库
+1388,depreciation, 贬值
+1389,depredation, 劫掠，蹂躏
+1390,depress, 压下，压低
+1391,depressed, 沮丧的
+1392,under the depressor,词组,被强制
+1393,depression, 不景气，萧条期 凹陷处，坑 沮丧，消沉
+1394,deprive, 剥夺，使失去
+1395,deprivation, 缺乏；剥夺
+1396,derive, 得到，获取；源于
+1397,derive from,词组,来源于
+1398,derivative, 派生的事物；派生词
+1399,desalination, 脱盐，去盐作用
+1400,descend, 传下，遗传 下降
+1401,descendant, 子孙，后裔
+1402,descent, 血统，世袭 下降
+1403,desert, 沙漠 遗弃
+1404,deserted, 荒芜的，荒废的
+1405,deserve, 应得
+1406,undeserved, 不应得的，不该受的
+1407,designate, 指定，任命
+1408,desire, 欲望，要求 想要
+1409,desirable, 令人向往的；令人满意的
+1410,desolate, 荒凉的，无人烟的
+1411,desperate, 绝望的，不顾一切的，拼死的
+1412,desperately, 迫切地；危急地
+1413,despoil, 夺取，掠夺
+1414,despoiler, 掠夺者
+1415,dessert, 餐后甜点
+1416,destination, 目的地
+1417,destine, 命运注定，预定
+1418,destruction, 破坏；毁灭
+1419,destructive, 破坏的；毁灭性的
+1420,detect, 察觉，发觉；探测，侦查
+1421,detective, 侦探 侦探的
+1422,detectable, 可发觉的；可查明的
+1423,smoke detector,词组,烟雾探测器
+1424,deter, 阻碍，制止，使踌躇
+1425,deterrent, 制止物，威慑力量
+1426,detergent, 清洁剂
+1427,deteriorate, 使恶化；质量下降
+1428,determinant, 决定因素
+1429,detest, 深恶，憎恶
+1430,detrimental, 有害的
+1431,detriment, 伤害，危害
+1432,devastate, 毁坏
+1433,devastation, 毁坏
+1434,devastating, 破坏性的
+1435,device, 器械，装置
+1436,devise, 设计；发明
+1437,devoid, 全无的，缺乏的
+1438,devote, 投入于，献身；用于，作…之用
+1439,devotion, 热爱，忠诚
+1440,devour, 贪婪地吃，吞食
+1441,diagnose, 诊断
+1442,diagonal, 对角线（的）
+1443,diagonally, 成对角线地，斜对地
+1444,diagram, 图表
+1445,dialect, 方言，土话
+1446,dialogue, 对话
+1447,diameter, 直径
+1448,dictate, 规定；决定，确定
+1449,diction, 措辞，用语
+1450,prediction, 预言，预报
+1451,jurisdiction, 权限
+1452,diet, 饮食，食物 节食，忌食
+1453,dietary, 饮食的
+1454,dieter, 节食者，减肥者
+1455,dietitian, 营养学家
+1456,dietetics, 营养学
+1457,differentiate, 区分，区别
+1458,undifferentiated, 无差别的，无显著特征的
+1459,diffuse, 扩散；散播 散开的，弥漫的
+1460,digestion, 消化
+1461,digest, 消化
+1462,digestive, 消化的，助消化的
+1463,indigestion, 消化不良
+1464,dignity, 尊严，高贵
+1465,digression, 离题，扯到枝节上
+1466,dilate, 使膨胀，使扩大
+1467,dilemma, 困境，进退两难
+1468,diligent, 勤勉的，勤奋的
+1469,diligently, 勤勉地，尽职地，小心翼翼地
+1470,dilute, 稀释，淡化
+1471,dilution, 稀释，淡化
+1472,dim, 暗淡的，模糊的
+1473,dimly, 朦胧地，模糊地
+1474,dime,（美）一角硬币
+1475,dimension, 尺寸；尺度
+1476,dimensional, 空间的
+1477,two/three dimensional,词组,两/三维的
+1478,diminish, （使）减少，（使）变小
+1479,dinosaur, 恐龙
+1480,dioxide, 二氧化物
+1481,carbon dioxide, 二氧化碳
+1482,diplomacy, 外交，交际手腕
+1483,diplomatic, 外交的；老练的
+1484,disadvantage, 缺点，坏处，不利
+1485,disapproval, 不赞成
+1486,disaster, 灾难，不幸；彻底的失败
+1487,disastrous, 损失惨重的；悲伤的
+1488,discard, 丢弃
+1489,discern, 看出；察觉到
+1490,discernible, 可识别的=discernable
+1491,discerning, 有识别能力的；眼光敏锐的
+1492,discharge, 释放；排出 流出 放电
+1493,disciple, 门徒，弟子
+1494,discipline, 纪律，训练 学科 训练；惩罚
+1495,subdiscipline, （学科的）分支，分科
+1496,disciplined, 遵守纪律的
+1497,discomfort, 不适
+1498,discontented, 不满意，不满足
+1499,discontent, 不满
+1500,discount, 折扣 不全信，对…持怀疑态度
+1501,discourage, 使气馁；阻碍
+1502,discouraging, 令人气馁的
+1503,discourse, 讲道，演讲
+1504,discrete, 独立的；不连续的，离散的
+1505,discreet, 小心的，谨慎的
+1506,disgust, 厌恶，嫌恶
+1507,disgusted, 厌烦的；厌恶的
+1508,disillusion, 使醒悟
+1509,disintegrate, （使）瓦解，（使）碎裂
+1510,disinterested, 无个人利害关系的;无私的,公平的
+1511,dismal, 暗的，凄凉的；忧郁的，沮丧的
+1512,dismay, 使惊慌；使沮丧 沮丧，惊慌
+1513,dismember, 肢解，分割
+1514,dismembered, 肢解的
+1515,dismiss, 解散；摒除（思想、感情等）
+1516,disorganize, 扰乱，使混乱
+1517,dispatch, （紧急）派遣；分配 派遣；急件，重要消息
+1518,dispense, 分配，分发
+1519,dispense with,词组,免除，省却
+1520,disperse, 分散，散开
+1521,dispersal, 疏散，散开
+1522,displace, 移置，转移；取代，替代
+1523,displacement, 移置，转移
+1524,display, 陈列 显示 陈列，展览；显示
+1525,disposal, 垃圾倾倒；处置
+1526,dispose of,词组,除去，扔掉；解决，处理
+1527,disposed, 有…倾向的
+1528,disposition, 性情；倾向
+1529,disproportionate, 不成比例的
+1530,dispute, 争论，纠纷 争论，争执
+1531,disregard, 不理会；漠视
+1532,disrepute, 坏名声，不光彩
+1533,disrupt, 使混乱，使中断
+1534,disseminate, 传播，宣传
+1535,dissenter, 不同意者，反对者
+1536,dissenting, 不同意的
+1537,dissertation, 论文
+1538,dissimilar, 不同的, 相异的
+1539,dissipate, 消失；消散
+1540,dissipated, 沉迷于酒色的, 浪荡的
+1541,dissolve, 使溶解
+1542,distant, 远离的，遥远的
+1543,distance, 距离；远处
+1544,distend,（使）扩大，（使）扩张
+1545,distent, 膨胀的，扩张的
+1546,distasteful, （令人）不愉快的，讨厌的
+1547,distill, 蒸馏，提取
+1548,distinction, 差别，特性 显赫，声望
+1549,distinct, 明确的，确实的；不同的
+1550,distinctly, 清楚地，显然
+1551,distinctive, 有特色的，出众的
+1552,distinctively, 特殊地，区别地
+1553,distinguish, 区别，辨认
+1554,distinguished, 卓著的
+1555,distort, 弄歪（形状等）；歪曲
+1556,undistorted, 未失真的
+1557,distortion, 扭曲；歪曲
+1558,distract, 使…分心，分散注意力
+1559,distress, 悲痛，不幸，穷困
+1560,distribute, 分配；分发，散布
+1561,distribution, 分发，分配
+1562,district, 区域，地区
+1563,disturb, 打扰，扰乱
+1564,undisturbed, 没受干扰的，安静的
+1565,disturbance, 骚动，动乱
+1566,dive, 潜水；跳水
+1567,diver, 潜水者，跳水运动员
+1568,divergent, 有分歧的，有差异的
+1569,divergence, 分歧，岔开
+1570,diverse, 不同的；变化多的
+1571,diversity, 差异，多样
+1572,diversify, 使多样化
+1573,diversified, 多样化的
+1574,diversification, 多样化
+1575,diversion, 消遣，娱乐 转移，转换
+1576,divert, 转移，（使）转向
+1577,divide, 划分，分开；分裂
+1578,dividing line,词组,分界线
+1579,divorce, 离婚 使分离，使脱离
+1580,dizzy, 眩晕的
+1581,dizzying, 令人昏乱的；灿烂的
+1582,dizziness, 头昏眼花，眩晕
+1583,doctrine, 教义，教旨
+1584,documentation, 文件
+1585,document, 证明；文件记录
+1586,documentary, 文件的  纪录片
+1587,dogged, 顽强的，顽固的
+1588,dogma, 教条，教义
+1589,doll, 洋娃娃，玩偶
+1590,dolphin, 海豚
+1591,domain, 领域，范围
+1592,domestic, 家里的；家养的 本国的，国内的
+1593,domesticate, 驯养，驯化
+1594,domesticated, 驯养的，家养的
+1595,dominant, 支配的，占优势的
+1596,predominantly, 占主导地位地
+1597,dominate, 统治，支配，控制 盛行
+1598,predominate, 占主导地位，占优势
+1599,donate, 捐赠
+1600,donation, 捐赠，捐款
+1601,donor, 捐助者
+1602,dormant, 静止的，休眠的
+1603,dormitory, 宿舍
+1604,dorsal, 背部的，背脊的
+1605,dot, 星罗棋布于 点，圆点
+1606,endotoxin, 内毒素
+1607,endotherm, 温血动物，恒温动物
+1608,doubt, 怀疑
+1609,doubtful, 可疑的；疑心的
+1610,downtown, 在市区（的），往市区（的）
+1611,draft, 草图，草稿 起草
+1612,draft animal,词组,役用动物
+1613,drag, 拖动
+1614,dragonfly, 蜻蜓
+1615,drain, （使）流走，（使）排光 排水；消耗
+1616,down the drain,词组,浪费；无结果
+1617,drainage, 排水，排出物
+1618,drama, 戏剧
+1619,dramatize, 改编成戏剧，编写剧本
+1620,melodrama, 情节剧
+1621,dramatically, 戏剧性地；引人注目地
+1622,dramatic, 戏剧性的；引人注目的
+1623,drastic, 猛烈的
+1624,draw, 吸引
+1625,drawing, 图画，制图
+1626,draw up,词组,起草
+1627,draw out,词组,拔出；引起
+1628,draw from,词组,源于…
+1629,drawback, 弊端，缺点
+1630,drawer, 抽屉
+1631,dread, 畏惧，恐怖
+1632,dreadful, 可怕的
+1633,dreadfully, 可怕地
+1634,dreary, 沉闷的，阴郁的
+1635,drift, 漂流；漂泊
+1636,driftwood, 浮木
+1637,snowdrift, 雪堆
+1638,drill, 钻孔，打眼 训练，操练；反复练习
+1639,drop in,词组,顺便拜访
+1640,drought, 干旱
+1641,drowsy, 昏昏欲睡的
+1642,drudgery, 苦工，苦差事
+1643,ductile, 易延展的；柔软的
+1644,due, 预定的；到期的
+1645,due to,词组,因为，由于
+1646,overdue, 迟到的，过期的
+1647,dues, 应付款
+1648,subdue, 征服
+1649,residue, 残滓，剩余
+1650,dull, 钝的；感觉或理解迟钝的
+1651,dumb, 哑的
+1652,dumbbell-like, 哑铃状的
+1653,dump, 倾泻，倾倒
+1654,duplicate, 复写，复制 两重的，两倍的；完全相同的
+1655,durable, 持久的；耐用的
+1656,duration, 持续时间
+1657,dwarf, 侏儒  把…显得矮小
+1658,dwell, 居住，生活于
+1659,dweller, 居住者，居民
+1660,dwelling, 住处，寓所
+1661,dye, 颜料，燃料 染色
+1662,dynamic, 动力的；动态的
+1663,dynamics, 动力学
+1664,aerodynamics, 空气动力学
+1665,thermodynamics, 热力学
+1666,eager, 渴望的；热心的
+1667,earthquake, 地震
+1668,eccentric, 古怪的（人），异常的（人）
+1669,eccentricity, 反常，怪癖
+1670,eclecticism, 折衷主义
+1671,eclipse, 日蚀，月蚀 盖过，使失色；遮蔽
+1672,ecological, 生态的；生态学的
+1673,ecologist, 生态学者
+1674,economical, 经济的，节俭的
+1675,economics, 经济学
+1676,economize, 节约，节省
+1677,ecosystem, 生态系统
+1678,edge, 边缘
+1679,edentate, 贫齿类动物
+1680,edible, 可食用的
+1681,edifice, 宏伟的建筑物
+1682,educable, 可教育的，可培养的
+1683,educated, 受过教育的，有教养的
+1684,education, 教育，培养
+1685,effective, 有效的；生效的
+1686,effectiveness, 效力
+1687,efficient, 生效的；能干的，有效率的
+1688,efficiency, 效率，功效
+1689,effluent, 流出物
+1690,eject, 喷出，喷射 逐出，驱逐
+1691,elaborate, 精细的，精心的；详尽的 详细阐述
+1692,elaborately, 精细地，详尽地
+1693,elasticity, 弹力，弹性
+1694,inelastic, 无弹性的
+1695,election, 选举；当选
+1696,selection, 选择；精选品
+1697,electron, 电子
+1698,elegant, 雅致的
+1699,elegance, 高雅, 典雅, 优雅, 雅致
+1700,element, 成分；要素
+1701,elementary, 基本的，初级的
+1702,elevate, 举起；抬高；使上升
+1703,elevation, 高度，海拔
+1704,elevator, 电梯，起重机；活动谷仓
+1705,elicit, 得出；引出
+1706,eligible, 合格的，有资格的
+1707,eliminate, 排除，剔除
+1708,elimination, 排除，除去
+1709,elite, 精英
+1710,elixir, 长生不老药，万能药
+1711,elliptical, 椭圆的 省略的
+1712,elongate, 延长，伸长
+1713,eloquent, 善于表达的，有口才的；雄辩的
+1714,elusive, 难懂的，难捉摸的
+1715,emancipate, 解放，释放
+1716,emancipation, 释放，解放
+1717,embarrass, 使尴尬，使困窘
+1718,embed, 插入；镶嵌
+1719,embellish, 装饰，修饰
+1720,embellishment, 装饰，修饰
+1721,emblem, 象征，标志；徽章
+1722,embody, 使具体化；包含，收录
+1723,emboss, 加浮雕花纹于，使凸出
+1724,embrace, 包含 拥抱；欣然接受
+1725,embroider, 刺绣, 镶边；装饰
+1726,embroidery, 刺绣
+1727,embryo, 胚胎；事物的萌芽期
+1728,embryological, 胚胎学的
+1729,embryonic, 胚胎的，萌芽期的
+1730,emerge, 出现，浮现
+1731,emerging, 正在不断出现的
+1732,emergence, 出现，形成
+1733,emigrant, 移民（出国）
+1734,eminent, 著名的，显著的
+1735,eminence, 显赫的声望
+1736,preeminent, 卓越的
+1737,emission, 散发；发射
+1738,emit, 发出，放射
+1739,emotional, 情绪的，情感的
+1740,emotion, 情绪，强烈的情感
+1741,emphasize, 强调, 着重
+1742,emphasis, 强调, 重点
+1743,employ, 用，使用 雇佣
+1744,employee, 雇员
+1745,employer, 雇主，老板
+1746,empty, 空的；空洞的，空虚的 使成为空，倒空
+1747,enactment, 设定，制定
+1748,encase, 装入，包住，围
+1749,enclose, 装入，放入封套；围绕
+1750,enclosure, 围绕；围墙
+1751,encompass, 包括，包含 环绕，围住
+1752,encounter, 遭遇，遇到
+1753,encourage, 鼓励，支持
+1754,encroach, 侵占，蚕食
+1755,encyclopedia, 百科全书
+1756,endanger, 危及；危害
+1757,endangered, 有灭绝危险的，将要绝种的
+1758,endeavor, 尝试，努力 努力，尽力
+1759,endless, 无止境的
+1760,endlessly, 不断地，无穷尽地
+1761,endow, 捐赠 赋予
+1762,endowment, 禀赋；捐款
+1763,endure, 承受，忍受 耐久
+1764,enduring, 持久的，不朽的
+1765,endurance, 忍耐（力），持久（力）
+1766,energetic, 精力充沛的；积极的
+1767,engaging, 动人的，迷人的
+1768,engage in,词组,从事于，参加
+1769,engrave, 雕刻，铭刻
+1770,engraving, 雕刻术, 雕版, 雕版图
+1771,enhance, 提高，增加
+1772,enlightenment, 启迪，教化
+1773,enormous, 极大的，庞大的
+1774,enrage, 激怒
+1775,enrich, 加料于(食物)；使富足，使肥沃
+1776,ensemble, 全体，整体 合唱曲；剧团或文工团
+1777,entanglement, 纠缠，缠绕物 累赘；牵连
+1778,enterprise, 事业，企业
+1779,enterprising, 有进取心的,有事业心的,有魄力的
+1780,entertain, 娱乐；款待
+1781,entertainment, 娱乐；款待
+1782,entertainer, 演艺人员
+1783,enthusiasm, 热心，热情
+1784,enthusiastically, 热心地；满腔热情地
+1785,entitle, 取名叫，叫做 赋予权力
+1786,entitled, 有资格的
+1787,entity, 存在物，实体
+1788,entrenched, 确立的，不容易改的(风俗习惯)
+1789,entrepreneur, 企业家，创业人
+1790,entry, 进口；入口 条目
+1791,envelop, 把…包住，裹住
+1792,envision, 想象，预想
+1793,enzyme, 酶
+1794,ephemeral, 短暂的，转瞬即逝的
+1795,epic, 史诗，叙事诗
+1796,epidemic, 传染病，流行病
+1797,epidermis, 表皮
+1798,episode, 一段情节；（音乐）插曲
+1799,epoch, 新纪元，时代
+1800,equal, 相等的，同样的 等于，比得上
+1801,equality, 同等，平等
+1802,equilibrium, 平衡，均衡
+1803,equipment, 设备
+1804,equitable, 公平的，公正的
+1805,equivalent, 等同品 相等的，等同的；等值的
+1806,eradicate, 根除，杜绝
+1807,erect, 使树立；建立，创立
+1808,erode, 腐蚀，侵蚀
+1809,erosion, 腐蚀，侵蚀
+1810,erratic, 古怪的，反复无常的
+1811,erratically, 不规则地
+1812,error, 做错，出差错
+1813,eruption, 爆发，喷发
+1814,erupt, 喷出，爆发
+1815,escalate, 逐步升高, 逐步增强 使逐步上升
+1816,escalator, 电动扶梯
+1817,escape, 逃脱，逃走；避开，避免
+1818,escapist, 逃避现实的（人）
+1819,essential, 绝对必要的；本质的，根本的
+1820,estate, 财产；不动产
+1821,real estate,词组,房地产
+1822,estimate, 估计
+1823,underestimate, 低估，看轻
+1824,overestimate, 评价过高
+1825,eternal, 永恒的；永远的
+1826,ethics, 伦理学；道德规范
+1827,ethically, 在伦理上，道德上
+1828,ethnic, 种族的
+1829,etiquette, 礼仪，礼节
+1830,evaluate, 评价，估价
+1831,evaporate, （使）蒸发；消失
+1832,evaporation, 蒸发；消失
+1833,eventful, 多事的,充满大事的;意义重大的
+1834,eventual, 最终的
+1835,eventually, 终于
+1836,evergreen, 常绿的 常绿树；常绿植物
+1837,evidence, 证据 证明；表明，显示
+1838,evident, 明显的
+1839,eviscerate, 取出内脏；除去主要部分
+1840,evoke, 引起，激起，唤起
+1841,evolution, 发展，演变
+1842,evolve, 进化，发展
+1843,evolutionary, 发展的，进化的
+1844,exact, 精确的，准确地
+1845,exacting, 苛求的，要求严格的
+1846,exaggerate, 夸大，夸张
+1847,exaggeration, 夸张
+1848,exalted, 崇高的，高贵的
+1849,excavate, 挖掘，挖出
+1850,excavation, 挖掘
+1851,exceed, 超越，胜过
+1852,excel, 胜过，杰出
+1853,excellent, 优良的，杰出的
+1854,exception, 例外
+1855,exceptional, 异常的，杰出的
+1856,exceptionally, 特殊地；异常地
+1857,excess, 过度的，额外的 过量，超过
+1858,excessive, 过度的，过分的，过多的
+1859,exchange, 兑换，交换
+1860,excitement, 激动，兴奋；刺激
+1861,excite, 刺激，使兴奋
+1862,exciting, 令人兴奋的，刺激的
+1863,exclaim, 呼喊；惊叫
+1864,exclude, 把…排除在外，排斥
+1865,exclusion, 排除，逐出
+1866,exclusive, 单独的，唯一的；排外的
+1867,exclusively, 排外地, 专有地
+1868,excursion, 远足，游览
+1869,excuse, 原谅 藉口，理由
+1870,execute, 完成，实施，执行
+1871,execution, 实施，执行；完成
+1872,executive, 行政的 执行者，经理主管人员
+1873,exemplary, 模范的，典范的，可仿效的
+1874,exemplify, 例证；作为…的例子
+1875,exempt, 使免除，豁免
+1876,exemption, 解除，免除
+1877,exert, 运用，行使，施加
+1878,exertion, 尽力，努力
+1879,exhale, 呼出，呼气
+1880,exhaust, 排气，排气装置 用尽，耗尽，使筋疲力尽
+1881,exhausted, 精疲力尽的
+1882,exhausting, 使用尽的, 令人疲乏不堪的
+1883,exhibit, 展现；展览
+1884,exhibition, 展览会；展览品
+1885,exhilarating, 爽快的，使人愉快的
+1886,exhilarate, 使人兴奋
+1887,exit, 出口
+1888,exorbitant, （价格、索价）过高的，过分的
+1889,exotic, 异国的，外来的；奇异的
+1890,expand, 扩大，膨胀；扩张
+1891,expanding, 扩大的，增加的
+1892,expansion, 扩张，发展
+1893,expanse, 广阔的区域
+1894,expedition, 远征；探险队
+1895,expel, 驱逐，开除；排出
+1896,expenditure, 支出, 花费
+1897,expertise, 专门技术，技能
+1898,expire, 期满，到期 呼气
+1899,explicit, 明确的，清楚的
+1900,implicit, 暗示的，含蓄的
+1901,explode, 爆炸；爆发
+1902,exploit, 开拓；开采，开发
+1903,exploitation, 开发，开采
+1904,explore, 探险，勘探 仔细检查，探究
+1905,explorer, 探险家，探测者
+1906,exploration, 勘察；探究
+1907,explosive, 爆炸的；易爆发的 炸药
+1908,exponential, 指数的，幂数的
+1909,exposition, 博览会，展览会
+1910,exposure, 暴露；曝光
+1911,express business,词组,特快专递业务
+1912,express train,词组,特快列车
+1913,expressive, 有表现力的,富有表情的,生动的
+1914,expressly, 特意地，专门
+1915,extension, 延长，扩充
+1916,extend, 延长；扩大
+1917,extended, 延长的，扩大的
+1918,extensive, 广的；多方面的，广泛的
+1919,exterior, 外部，外表
+1920,exterminate, 根除，灭绝
+1921,external, 外部的；表面的
+1922,extinct, 灭绝的；不再活跃的，熄灭的
+1923,extinction, 消失，灭绝
+1924,extol, 赞美
+1925,extract, 拔出；榨取 精，汁；榨出物
+1926,extraordinary, 特别的，非凡的
+1927,extremity, 末端；极端，极度
+1928,exuberant, 充满活力的（植物）繁茂的
+1929,eyewitness, 目击者
+1930,fable, 寓言，神话
+1931,fabric, 织物，布 结构，构造
+1932,facade, 正面；表面
+1933,facet, 面；（问题等的）方面
+1934,multifaceted, 多层面的
+1935,face, 面对
+1936,facilitate, 使容易；有助于，促进
+1937,facilitation, 促进，帮助
+1938,facility, 设施，设备
+1939,facsimile, 复制品，传真
+1940,faction, 派别，宗派，小集团
+1941,petrifaction, 石化, 化石
+1942,satisfaction, 满意，满足
+1943,factor, 因素；变量
+1944,factual, 事实的，实际的
+1945,faculty, 教职工的总称 才能，能力
+1946,fade, 逐渐消失 褪色，枯萎
+1947,faint, 微弱的；模糊的；无力的
+1948,fairly, 公平地；相当地
+1949,faithful, 信徒 忠实的
+1950,faithfulness, 忠诚，诚实
+1951,fake, 赝品，假货 假的，伪造的
+1952,falcon, 猎鹰
+1953,falconer, 养猎鹰者，放鹰狩猎人
+1954,famine, 饥荒，饥饿
+1955,fanatical, 狂热的；入迷的
+1956,fanatic, 狂热的；盲信的
+1957,fanaticism, 狂热，盲信
+1958,fancy, 新奇的，精美的
+1959,fanciful, 爱空想的
+1960,infancy, 幼年
+1961,fantastic, （非正式）极…的；奇异的
+1962,fantasy, 幻想；白日梦
+1963,far-reaching, 影响深远的
+1964,farce, 闹剧，滑稽剧
+1965,fascinate, 使着迷，使神魂颠倒
+1966,fascinating, 迷人的，醉人的
+1967,fascination, 入迷，迷恋；魅力
+1968,fashionable, 流行的，时髦的，上流社会的
+1969,fashion, 流行，风尚，流行式样 塑造，造
+1970,fasten, 使固定，系
+1971,fatal, 致命的
+1972,fateful, 重大的，决定性的
+1973,fatigue, 疲乏，劳累
+1974,faucet, 水龙头
+1975,fault, （地质学）断层 过错，缺点
+1976,fauna, 动物群，动物区系
+1977,flora, 植物群
+1978,floral, 花的，植物的
+1979,favorable, 有利的；有助的；赢得赞扬的
+1980,favored, 首选的；受到优待的；受优惠的
+1981,unfavorable, 不宜的；相反的
+1982,feasible, 切实可行的
+1983,feat, 功绩，壮举
+1984,feeble, 微弱的；衰弱的
+1985,feed, 喂养，饲养；吃草，靠…为生 饲养，饲料
+1986,feeder, 进料器
+1987,feed on,词组,吃，以…为食
+1988,feminism, 女权运动
+1989,feminist, 女权主义者
+1990,fencing, 围墙，栅栏；击剑，剑术
+1991,fend for oneself, 词组,自己谋生
+1992,fender, 防卫物；挡泥板
+1993,ferment, 使发酵（使）激动，（使）动乱
+1994,fermentation, 发酵
+1995,ferry, 渡口；渡船
+1996,fertile, 肥沃的，富饶的；能繁殖的 主意多的，有创造力的
+1997,infertile, 不肥沃的，贫瘠的，不结果实的
+1998,fertilize, 施肥，使丰饶；使受精
+1999,fertilized egg,词组,受精卵
+2000,fertilizer, 肥料
